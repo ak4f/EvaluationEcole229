@@ -1,0 +1,19 @@
+1-Qu'est ce que git====>B-Un systeme de gestion de version
+
+2-A quoi sert la commande git clone=====>B-pour cloner un dépot distant
+
+3-Quelle commande permet d'ajouter des modifications à la zone de préparation=====>B-git add
+
+4-Comment creer une nouvelle branche et basculer dessu en une seule commande==>C-git checkout -b nouvellebranche
+
+5-Quelle commande permet de voir l'historique des commits===>A-git log
+
+6-Que fait la commande git pull===>B-recuperer un dépôt distant
+
+7-Comment annuler le dernier commit sans perdre les modifications===>A-git reset
+
+8-Quelle est la différence entre git merge et git rebase==>B-git merge fusionne les branches tandis que gi rebase réapplique les commits 
+
+9-Comment creer une étiquette(tag) pour marquer un commit spécifique==>B-git tag
+
+10-Quelle commande permet de supprimer une branche locale==>C-git branch -d
